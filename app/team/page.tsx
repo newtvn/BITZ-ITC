@@ -32,9 +32,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=CEO',
     expertise: ['Business Strategy', 'Leadership', 'Innovation'],
     accolades: ['Award 1', 'Recognition 2'],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   },
   {
     id: 'mercy-kamau',
@@ -44,9 +41,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=Strategy',
     expertise: ['Strategic Planning', 'Market Analysis', 'Growth Initiatives'],
     accolades: ['Award A', 'Recognition B'],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   },
   {
     id: 'nelson-adagi',
@@ -75,9 +69,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=Finance',
     expertise: ['Financial Management', 'Strategic Planning', 'Budgeting'],
     accolades: [],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   },
   {
     id: 'jimmy-wanyama',
@@ -87,9 +78,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=AI',
     expertise: ['AI Development', 'Machine Learning', 'Data Science'],
     accolades: ['Project Contribution A'],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   },
   {
     id: 'miriam-shem',
@@ -99,9 +87,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=Social',
     expertise: ['Social Media Strategy', 'AI for Marketing', 'Content Creation'],
     accolades: [],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   },
   {
     id: 'franklin-karanja',
@@ -111,9 +96,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=Model',
     expertise: ['AI Model Development', 'Model Training', 'Performance Optimization'],
     accolades: ['Research Paper 1'],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   },
   {
     id: 'phylis-kamau',
@@ -123,9 +105,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=CI',
     expertise: ['CI/CD', 'DevOps', 'Cloud Deployment'],
     accolades: ['Certification Z'],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   },
   {
     id: 'jude-angedu',
@@ -135,9 +114,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=Backend',
     expertise: ['Backend Development', 'APIs', 'Database Management'],
     accolades: [],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   },
   {
     id: 'peter-rogendo',
@@ -147,9 +123,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=Backend',
     expertise: ['Backend Development', 'System Design', 'Optimization'],
     accolades: [],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   },
   {
     id: 'newton-brian',
@@ -159,9 +132,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=Frontend',
     expertise: ['UI/UX Design', 'Frontend Development', 'Responsive Design'],
     accolades: [],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   },
   {
     id: 'sharon-mutele',
@@ -171,9 +141,6 @@ const teamMembers: TeamMember[] = [
     image: '/placeholder.svg?height=400&width=400&text=Hospitality',
     expertise: ['Client Relations', 'Hospitality Management', 'Customer Service'],
     accolades: [],
-    linkedin: '#',
-    instagram: '#',
-    github: '#'
   }
 ];
 

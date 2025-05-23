@@ -1743,13 +1743,6 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
 }
 
-@media (min-width: 400px) {
-
-  .min-\[400px\]\:flex-row {
-    flex-direction: row;
-  }
-}
-
 @media (min-width: 640px) {
 
   .sm\:grid-cols-2 {
