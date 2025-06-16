@@ -9,6 +9,7 @@ import { CaseStudyCarousel } from "@/components/case-study-carousel"
 import Image from "next/image"
 import { useState, useRef } from 'react'
 import { toast } from 'sonner'
+
 import emailjs from '@emailjs/browser'
 
 interface ProjectData {
@@ -44,20 +45,20 @@ const projectsData: { [key: string]: ProjectData } = {
   "openchs": {
     title: "OPENCHS - A Child Helpline System",
     writtenBy: "BITZ-itc Team",
-    publishedOn: "", // Date can be added here
+    publishedOn: "4th July 2023", 
     sections: [
       {
         title: "Key Features",
         id: "features",
         images: [
           {
-            src: "/placeholder.svg?height=300&width=600&text=Call Management Image",
+            src: "/projects/project1.png",
             alt: "Call Management Feature",
             title: "Call Management",
             description: "Inbound and Outbound Call Handling"
           },
            {
-            src: "/placeholder.svg?height=300&width=600&text=Case Management Image",
+            src: "/projects/project1.png",
             alt: "Case Management Feature",
             title: "Case Management",
             description: "Case Creation and Tracking"
@@ -81,7 +82,7 @@ const projectsData: { [key: string]: ProjectData } = {
         id: "integrations",
         images: [
           {
-            src: "/placeholder.svg?height=300&width=600&text=Dashboards Image",
+            src: "/projects/project1.png",
             alt: "Dashboards Feature",
             title: "Dashboards",
             description: "Real-Time Dashboards"
@@ -146,7 +147,7 @@ const projectsData: { [key: string]: ProjectData } = {
       ]
     },
      results: {
-      image: "/placeholder.svg?height=400&width=600&text=Results Image",
+      image: "projects/project1.png",
       content: [
         "Enhanced the efficiency and responsiveness of child protection services.",
         "Improved case handling, real-time monitoring, and data-driven decision-making.",

@@ -17,7 +17,7 @@ export default function ProjectsPage() {
       title: "OPENCHS - A Child Helpline System",
       category: "Child Protection",
       description: "OPENCHS is a comprehensive child helpline system that provides a safe and confidential environment for children.",
-      image: "/placeholder.svg?height=300&width=600&text=OPENCHS Image",
+      image: "/projects/project1.png",
     },
     {
       slug: "case-management-legal",
