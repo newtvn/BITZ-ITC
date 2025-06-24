@@ -88,19 +88,19 @@ const projectsData: { [key: string]: ProjectData } = {
             description: "Real-Time Dashboards"
           },
           {
-            src: "/placeholder.svg?height=300&width=600&text=CRM Integration Image",
+            src: "/projects/project1.png",
             alt: "CRM Integration Feature",
             title: "3rd Party Integrations",
             description: "CRM Integration"
           },
           {
-            src: "/placeholder.svg?height=300&width=600&text=API Integration Image",
+            src: "/projects/project1.png",
             alt: "API Integration Feature",
             title: "Secure & Scalable API Integrations",
             description: "Securely exchange data with other key systems."
           },
            {
-            src: "/placeholder.svg?height=300&width=600&text=Chatbot Integration Image",
+            src: "/projects/project1.png",
             alt: "Chatbot Integration Feature",
             title: "Mental Health Support & Chatbot Integration",
             description: "Integrates with mental health support systems, including AI-driven chatbots."
@@ -131,7 +131,7 @@ const projectsData: { [key: string]: ProjectData } = {
       "The system is designed to streamline case management from intake to resolution with configurable workflows, real-time updates, and secure data management. It also integrates seamlessly with call centers and various communication channels, ensuring efficient triage and escalation.",
     ],
     challenges: {
-      image: "/placeholder.svg?height=400&width=600&text=Challenges Image",
+      image: "projects/project1.png",
       content: [
         "Integrating with varying levels of technological infrastructure in target regions.",
         "Providing extensive user training across diverse skill levels.",
@@ -139,7 +139,7 @@ const projectsData: { [key: string]: ProjectData } = {
       ]
     },
     solution: {
-      image: "/placeholder.svg?height=400&width=600&text=Solution Image",
+      image: "projects/project1.png",
       content: [
         "Developed a user-friendly interface accessible via a mobile application with offline capabilities.",
         "Provided hands-on training and designed a user-friendly interface tailored to diverse skill levels.",
@@ -221,7 +221,7 @@ const projectsData: { [key: string]: ProjectData } = {
       "It offers features for secure user access, comprehensive case handling with detailed history, and profiling for legal professionals and courts involved in cases.",
     ],
      challenges: {
-      image: "/placeholder.svg?height=400&width=600&text=Legal Challenges Image",
+      image: "projects/project1.png",
       content: [
         "Ensuring secure and authorized access to sensitive legal data.",
         "Managing and tracking a large volume of case files and their movement.",
@@ -229,7 +229,7 @@ const projectsData: { [key: string]: ProjectData } = {
       ]
     },
     solution: {
-      image: "/placeholder.svg?height=400&width=600&text=Legal Solution Image",
+      image: "projects/project1.png",
       content: [
         "Implemented robust authentication and authorization mechanisms.",
         "Developed a centralized platform with real-time tracking of case file movement.",
@@ -237,7 +237,7 @@ const projectsData: { [key: string]: ProjectData } = {
       ]
     },
     results: {
-      image: "/placeholder.svg?height=400&width=600&text=Legal Results Image",
+      image: "projects/project1.png",
       content: [
         "Improved efficiency in legal case management.",
         "Enhanced data security and access control.",

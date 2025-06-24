@@ -31,7 +31,7 @@ const teamMembers: TeamMember[] = [
     description: 'Leading BITZ-itc with vision and expertise, driving our company\'s growth and innovation in technology solutions.',
     image: '/team-profiles/James-profile.jpg',
     expertise: ['Business Strategy', 'Leadership', 'Innovation'],
-    accolades: ['Award 1', 'Recognition 2'],
+    accolades: ['Best CEO award - 2024'],
   },
   {
     id: 'mercy-kamau',
@@ -40,7 +40,7 @@ const teamMembers: TeamMember[] = [
     description: 'Developing and implementing strategic initiatives to drive business growth and market leadership.',
     image: '/team-profiles/Mercy-profile.jpg',
     expertise: ['Strategic Planning', 'Market Analysis', 'Growth Initiatives'],
-    accolades: ['Award A', 'Recognition B'],
+    accolades: ['Planning ', 'Strategy and Innovation'],
   },
   {
     id: 'nelson-adagi',
@@ -49,7 +49,7 @@ const teamMembers: TeamMember[] = [
     description: 'Ensuring successful delivery of projects through effective planning, execution, and team leadership.',
     image: '/team-profiles/Nelson-profile.jpg',
     expertise: ['Project Management', 'Team Leadership', 'Execution'],
-    accolades: ['Certification X']
+    accolades: ['Project Management']
   },
   {
     id: 'joseph-kimani',
@@ -58,7 +58,7 @@ const teamMembers: TeamMember[] = [
     description: 'Leading technical innovation and ensuring the highest standards in our technology solutions.',
     image: '/team-profiles/Kimani-profile.jpg',
     expertise: ['Technical Leadership', 'Innovation', 'Software Architecture'],
-    accolades: ['Patent Y', 'Publication Z']
+    accolades: ['Aesterics', 'Php frameworks']
   },
   // Extended team
   {
@@ -77,7 +77,7 @@ const teamMembers: TeamMember[] = [
     description: 'Spearheading AI initiatives and machine learning solutions for innovative applications.',
     image: '/team-profiles/Jimmy-profile.jpg',
     expertise: ['AI Development', 'Machine Learning', 'Data Science'],
-    accolades: ['Project Contribution A'],
+    accolades: ['AI development'],
   },
   {
     id: 'miriam-shem',
