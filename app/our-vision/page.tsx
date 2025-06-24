@@ -58,7 +58,7 @@ export default function OurVision() {
                   Transforming Businesses Through Technology
                 </h2>
                 <p className="text-lg md:text-xl text-gray-500 dark:text-gray-400 max-w-[900px]">
-                  We are committed to delivering innovative solutions that drive growth and efficiency
+                  We are very committed to delivering innovative solutions that drive growth and efficiency
                 </p>
               </div>
             </div>
